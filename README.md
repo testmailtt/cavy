@@ -81,4 +81,4 @@ Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md).
   how something works.
 - Please try not to mess with the package.json, version, or history. If you
   want to have your own version, or is otherwise necessary, that is fine, but
-  please isolate to its own commit so we can cherry-pick around it.
+  please isolate to its own commit so we can cherry-pick around it..
